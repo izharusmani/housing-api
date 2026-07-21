@@ -1,0 +1,61 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual Environment
+venv/
+.env/
+.venv/
+
+# Environment Variables
+.env
+
+# IDE
+.vscode/
+.idea/
+
+# macOS
+.DS_Store
+
+# Linux
+*~
+
+# Windows
+Thumbs.db
+
+# Python Packaging
+build/
+dist/
+*.egg-info/
+
+# Logs
+*.log
+
+# Pytest
+.pytest_cache/
+
+# Coverage
+.coverage
+htmlcov/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Mypy
+.mypy_cache/
+
+# Ruff
+.ruff_cache/
+
+# Docker
+docker-compose.override.yml
+
+# Model files (optional)
+# Uncomment if you don't want to commit trained models
+# model/
+# *.pkl
+
+# Temporary files
+*.tmp
+*.swp
